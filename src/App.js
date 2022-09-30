@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   return (
     <div className="App">
-      <button className='btn-danger'>test</button>
+      <button className='btn btn-danger'>test</button>
        
     </div>
   );
